@@ -18,12 +18,12 @@ h1 span{
 }
 .footer p:last-child{
   margin-top: 3rem;
-  font-size: 1rem;
-  line-height: 4rem;
+  font-size: 1.5rem;
+  line-height: 2rem;
   color: #666;
 }
 .footer p:last-child i{
-  font-size: 0.9rem;
+  font-size: 1rem;
   line-height: 4rem;
   color: green;
 }
