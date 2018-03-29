@@ -13,13 +13,13 @@ h1,h2{
 h1 span{
   color: #089;
 }
-.footer{
+.footer h5{
   font-size: 2rem;
 }
 .footer p:last-child{
   margin-top: 3rem;
   font-size: 1.5rem;
-  line-height: 2rem;
+  line-height: 3rem;
   color: #666;
 }
 .footer p:last-child i{
