@@ -1,6 +1,6 @@
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: 1.5rem "Lucida Grande", Helvetica, Arial, sans-serif;
   text-align: center;
   background-color: azure;
 }
@@ -12,6 +12,9 @@ h1,h2{
 }
 h1 span{
   color: #089;
+}
+.footer{
+  font-size: 2rem;
 }
 /* entire container, keeps perspective */
 .flip-container {
@@ -25,8 +28,8 @@ h1 span{
 }
 
 .flip-container, .front, .back {
-  width: 200px;
-  height: 200px;
+  width: 20rem;
+  height: 20rem;
   margin: 0 auto;
 }
 
