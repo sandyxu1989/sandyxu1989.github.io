@@ -1,11 +1,14 @@
 body {
-  padding: 50px;
-  font: 1.5rem "Lucida Grande", Helvetica, Arial, sans-serif;
+  padding: 20px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
   text-align: center;
   background-color: azure;
 }
 a {
   color: #00B7FF;
+}
+h1{
+  font-size: 18px;
 }
 h1,h2{
   text-align: center;
@@ -14,17 +17,17 @@ h1 span{
   color: #089;
 }
 .footer h5{
-  font-size: 2rem;
+  font-size: 14px;
+  margin: 0;
 }
 .footer p:last-child{
-  margin-top: 3rem;
-  font-size: 1.5rem;
-  line-height: 3rem;
+  font-size: 14px;
+  line-height: 25px;
   color: #666;
 }
 .footer p:last-child i{
-  font-size: 1rem;
-  line-height: 4rem;
+  font-size: 12px;
+  line-height: 30px;
   color: green;
 }
 /* entire container, keeps perspective */
@@ -39,8 +42,8 @@ h1 span{
 }
 
 .flip-container, .front, .back {
-  width: 20rem;
-  height: 20rem;
+  width: 10rem;
+  height: 10rem;
   margin: 0 auto;
 }
 
